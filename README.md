@@ -146,7 +146,7 @@ Desde septiembre de 2014 vivo en Guadalajara y realizo algunas ```actividad.cham
 
 ##¿Por qué estoy aplicando para ```actividad.chamba = 'Civica Digital'```?
 
-###El camino al full-stack
+###El camino para volverse fuerte
 
 Quiero aprender más, más rápido. Actualmente tengo una gran cantidad de ```actividad.chamba``` que me ha hecho crecer y fortalecer mis habilidades. Sin embargo siento cada día más la necesidad de construir proyectos de largo alcance y alto impacto para poder aprender patrones de diseño, metodologías y lenguajes que con proyectos cortos de comunidad o freelancing no podría. 
 Quiero aprender esto para poder estudiarlo y mejorarlo, para poner un granito de arena como dirían y en un futuro ser una persona mejor preparada para liderar proyectos de tecnología e innovación.
